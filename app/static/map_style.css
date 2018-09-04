@@ -1,0 +1,169 @@
+@media (min-width: 1200px) {
+.container {
+    max-width: 970px;
+}
+}
+@media (min-width:400px){
+.global-search {
+padding: 20px 0;
+text-align:center;
+}
+body {
+/*padding-top: 15%;*/
+/*padding-bottom: 15px;*/
+/*	margin-bottom: 20em;*/
+}
+
+#result_list{
+	display: none;
+}
+
+.global-search {
+text-align:center;
+padding:10px;
+}
+.global-search .form-control {
+width:500px;
+}
+.global-search * {
+display:inline-block;
+margin-bottom:0;
+}
+}
+.topcorner{
+position:absolute;
+top:2%;
+right:2%;
+}
+.btn{
+background-color: #4285F4;
+border: none
+}
+.step-links a{
+color: #4285F4;
+}
+
+#map_button{
+	margin-top: 0em;
+	margin-bottom: 2em;
+	cursor: initial;
+}
+
+#svg_map {
+	border: solid #ccc 1px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5em;
+	background: #ccedf9;
+}
+
+.place_labels{
+	cursor: pointer;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 12px;
+	fill: #09105a;
+}
+
+/*.info_boxes{
+	fill: #67696d;
+	opacity: 0.75;
+}*/
+
+/*.info_texts tspan,.info_texts{
+	fill: #e3e4e8;
+	stroke: none;
+	font-family: 'Stylish', sans-serif;
+}*/
+
+#info_modal { /* Adapted from https://www.w3schools.com/howto/howto_css_modal_images.asp */
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    padding: 10em;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+    text-align: left;
+    color: #f2e9d5;
+    overflow: auto;
+    opacity: 0.9;
+
+    margin-left: auto;
+	margin-right: auto;
+	padding-left: 25%;
+	padding-right: 25%;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#info_modal h5{
+	margin-top: 1em;
+	font-weight: bold;
+}
+#info_modal h6{
+	margin-top: 0.5em;
+	
+	color: #f9db98;
+}
+
+.exit_crosses {
+	position: fixed;
+	right: 2em;
+	top: 2em;
+	z-index: 11;
+	cursor: pointer;
+	font-family: 'Gaegu', cursive;
+	color: #c13e3e;
+	stroke: none;
+	font-size: 2em;
+}
+
+.result_rows{
+	padding-left: 8em;
+	padding-right: 8em;
+}
+
+#modal_more_detail{
+	cursor: pointer;
+}
+
+#more_detail_div{
+	display: none;
+}
+
+.indent {
+	margin-left: 1.5em;
+	display: block;
+}
+
+.score_span{
+	opacity: 0.75;
+	font-size: 15px;
+}
+
+.img-cap .score_span{
+	margin-left: 5em;
+}
+
+#info_modal .score_span{
+	margin-left: 5em;
+}
+
+.blue_score_span{
+	color: #0a53b4;
+}
+
+#info_modal .blue_score_span{
+	color: #63a3f8;
+}
+
+
+
+
+
+
+
+

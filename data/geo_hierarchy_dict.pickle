@@ -1,0 +1,546 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+dict
+p1
+tp2
+Rp3
+S'europe'
+p4
+(dp5
+Vengland
+p6
+(lp7
+Vleeds
+p8
+aVmanchester
+p9
+aVbirmingham
+p10
+aVlondon
+p11
+aVyork
+p12
+aVliverpool
+p13
+asVczech republic
+p14
+(lp15
+Vprague
+p16
+asVportugal
+p17
+(lp18
+Vlisbon
+p19
+asVaustria
+p20
+(lp21
+Vsalzburg
+p22
+aVvienna
+p23
+asVgreece
+p24
+(lp25
+Vcyclades islands
+p26
+aVdodecanese islands
+p27
+aVcrete
+p28
+aVathens
+p29
+aVionian islands
+p30
+asVhungary
+p31
+(lp32
+Vbudapest
+p33
+asVitaly
+p34
+(lp35
+Vflorence
+p36
+aVbologna
+p37
+aVmilan
+p38
+aVvenice
+p39
+aVrome
+p40
+aVnaples
+p41
+asVscotland
+p42
+(lp43
+Vscottish highlands and islands
+p44
+aVedinburgh
+p45
+aVglasgow
+p46
+asVfrance
+p47
+(lp48
+Vnice
+p49
+aVbordeaux
+p50
+aVparis
+p51
+aVcorsica
+p52
+asVireland
+p53
+(lp54
+Vdublin
+p55
+aVbelfast
+p56
+asVnorway
+p57
+(lp58
+Voslo
+p59
+asViceland
+p60
+(lp61
+Vreykjavik
+p62
+asVgermany
+p63
+(lp64
+Vhamburg
+p65
+aVstuttgart
+p66
+aVmunich
+p67
+aVfrankfurt
+p68
+aVberlin
+p69
+asVbelgium
+p70
+(lp71
+Vantwerp
+p72
+aVbrussels
+p73
+asVspain
+p74
+(lp75
+Vmadrid
+p76
+aVcanary islands
+p77
+aVbarcelona
+p78
+aVmallorca
+p79
+aVseville
+p80
+aVandalucia
+p81
+aValicante
+p82
+aVbalearic islands
+p83
+asVholy see
+p84
+(lp85
+S'vatican city'
+p86
+asVnetherlands
+p87
+(lp88
+Vamsterdam
+p89
+asVdenmark
+p90
+(lp91
+Vcopenhagen
+p92
+asVfinland
+p93
+(lp94
+Vhelsinki
+p95
+asVsweden
+p96
+(lp97
+Vstockholm
+p98
+asVswitzerland
+p99
+(lp100
+Vzurich
+p101
+aVgeneva
+p102
+asVrussia
+p103
+(lp104
+Vst petersburg
+p105
+aVmoscow
+p106
+assS'caribbean'
+p107
+(dp108
+Vpuerto rico
+p109
+(lp110
+Vsan juan
+p111
+asVcuba
+p112
+(lp113
+Vhavana
+p114
+assS'north east asia'
+p115
+(dp116
+Vjapan
+p117
+(lp118
+Vtokyo
+p119
+aVkyoto
+p120
+asVtaiwan
+p121
+(lp122
+Vtaipei
+p123
+asVchina
+p124
+(lp125
+Vtibet
+p126
+aVbeijing
+p127
+aVshanghai
+p128
+asVsouth korea
+p129
+(lp130
+Vseoul
+p131
+assS'indian subcontinent'
+p132
+(dp133
+Vnepal
+p134
+(lp135
+Vkathmandu
+p136
+asVindia
+p137
+(lp138
+Vmumbai
+p139
+aVdelhi
+p140
+aVkolkata
+p141
+aVgoa
+p142
+assS'africa'
+p143
+(dp144
+Vegypt
+p145
+(lp146
+Vcairo
+p147
+asVkenya
+p148
+(lp149
+Vnairobi
+p150
+asVtanzania
+p151
+(lp152
+Vzanzibar
+p153
+asVsouth africa
+p154
+(lp155
+Vcape town
+p156
+assS'north america'
+p157
+(dp158
+Vcanada
+p159
+(lp160
+Vquebec city
+p161
+aVvancouver
+p162
+aVtoronto
+p163
+aVmontreal
+p164
+asVusa
+p165
+(lp166
+Vbaltimore
+p167
+aVseattle
+p168
+aVmarthas vineyard
+p169
+aVboston
+p170
+aVreno
+p171
+aVsedona
+p172
+aVdetroit
+p173
+aVphoenix
+p174
+aVfort lauderdale
+p175
+aVphiladelphia
+p176
+aVjuneau
+p177
+aVdallas
+p178
+aVcape cod
+p179
+aVhawaii
+p180
+aVsanta barbara
+p181
+aVmaui
+p182
+aVnashville
+p183
+aVatlantic city
+p184
+aVaspen
+p185
+aVtaos
+p186
+aVsan diego
+p187
+aVatlanta
+p188
+aVsanta fe
+p189
+aVtucson
+p190
+aVhonolulu
+p191
+aVsan francisco
+p192
+aVminneapolis
+p193
+aVmolokai
+p194
+aVkey west
+p195
+aVportland
+p196
+aVdenver
+p197
+aVoahu
+p198
+aVbranson
+p199
+aVanchorage
+p200
+aVorlando
+p201
+aVaustin
+p202
+aVcincinnati
+p203
+aVnew york city
+p204
+aVsalt lake city
+p205
+aVmiami
+p206
+aValbuquerque
+p207
+aVnew orleans
+p208
+aVwashington dc
+p209
+aVsan antonio
+p210
+aVhouston
+p211
+aVnapa valley
+p212
+aVhalifax
+p213
+aVlas vegas
+p214
+aVchicago
+p215
+aValaska
+p216
+aVmemphis
+p217
+aVscottsdale
+p218
+aVfairbanks
+p219
+aVtampa
+p220
+aVlos angeles
+p221
+asVmexico
+p222
+(lp223
+Vacapulco
+p224
+aVcabo san lucas
+p225
+aVmexico city
+p226
+aVcancun
+p227
+aVmazatlan
+p228
+aVcozumel
+p229
+aVpuerto vallarta
+p230
+aVsan jose del cabo
+p231
+assS'australasia'
+p232
+(dp233
+Vnew zealand
+p234
+(lp235
+Vauckland
+p236
+aVchristchurch
+p237
+asVaustralia
+p238
+(lp239
+Vnew south wales
+p240
+aVsydney
+p241
+aVadelaide
+p242
+aVdarwin
+p243
+aVhobart
+p244
+aVbrisbane
+p245
+aVmelbourne
+p246
+aVcanberra
+p247
+aVperth
+p248
+assS'south america'
+p249
+(dp250
+Vbrazil
+p251
+(lp252
+Vrio de janeiro
+p253
+asVuruguay
+p254
+(lp255
+Vmontevideo
+p256
+asVperu
+p257
+(lp258
+Vlima
+p259
+asVargentina
+p260
+(lp261
+Vbuenos aires
+p262
+asVvenezuela
+p263
+(lp264
+Vcaracas
+p265
+asVchile and easter island
+p266
+(lp267
+Vsantiago
+p268
+assS'south east asia'
+p269
+(dp270
+Vmalaysia
+p271
+(lp272
+Vkuala lumpur
+p273
+asVphilippines
+p274
+(lp275
+Vmanila
+p276
+asVindonesia
+p277
+(lp278
+Vjava
+p279
+aVjakarta
+p280
+aVlombok
+p281
+aVbali
+p282
+aVsumatra
+p283
+asVthailand
+p284
+(lp285
+Vchiang mai
+p286
+aVbangkok
+p287
+asVvietnam
+p288
+(lp289
+Vhanoi
+p290
+aVho chi minh
+p291
+assS'middle east'
+p292
+(dp293
+Vturkey
+p294
+(lp295
+Vistanbul
+p296
+asVunited arab emirates
+p297
+(lp298
+Vdubai
+p299
+aVabu dhabi
+p300
+asViran
+p301
+(lp302
+Vtehran
+p303
+ass.
